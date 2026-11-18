@@ -3,3 +3,4 @@ A simple shell script that calculates simple interest given principal, annual ra
 
 ## Formula
 Simple Interest = (P * T * R) / 100
+Updated for submission
